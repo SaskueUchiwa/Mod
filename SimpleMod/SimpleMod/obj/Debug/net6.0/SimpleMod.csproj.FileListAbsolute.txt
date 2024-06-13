@@ -1,0 +1,14 @@
+/workspaces/Mod/SimpleMod/SimpleMod/bin/Debug/net6.0/SimpleMod.deps.json
+/workspaces/Mod/SimpleMod/SimpleMod/bin/Debug/net6.0/SimpleMod.dll
+/workspaces/Mod/SimpleMod/SimpleMod/bin/Debug/net6.0/Mitochondria.Core.dll
+/workspaces/Mod/SimpleMod/SimpleMod/bin/Debug/net6.0/Mitochondria.Options.Settings.dll
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.csproj.AssemblyReference.cache
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.AssemblyInfoInputs.cache
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.AssemblyInfo.cs
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.csproj.CoreCompileInputs.cache
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.sourcelink.json
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.csproj.Up2Date
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/SimpleMod.dll
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/refint/SimpleMod.dll
+/workspaces/Mod/SimpleMod/SimpleMod/obj/Debug/net6.0/ref/SimpleMod.dll

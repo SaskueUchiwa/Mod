@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/Mod/SimpleMod/SimpleMod/SimpleMod.csproj": {}
+  },
+  "projects": {
+    "/workspaces/Mod/SimpleMod/SimpleMod/SimpleMod.csproj": {
+      "version": "1.0.0-dev",
+      "restore": {
+        "projectUniqueName": "/workspaces/Mod/SimpleMod/SimpleMod/SimpleMod.csproj",
+        "projectName": "SimpleMod",
+        "projectPath": "/workspaces/Mod/SimpleMod/SimpleMod/SimpleMod.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Mod/SimpleMod/SimpleMod/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/workspaces/Mod/SimpleMod/nuget.config",
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.samboy.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AmongUs.GameLibs.Steam": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2024.6.4, )"
+            },
+            "BepInEx.AutoPlugin": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "BepInEx.IL2CPP.MSBuild": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.1-rc.1, )"
+            },
+            "BepInEx.Unity.IL2CPP": {
+              "include": "Compile, Build, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.0-be.688, )"
+            },
+            "Reactor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Samboy063.Cpp2IL.Core": {
+              "target": "Package",
+              "version": "[2022.1.0-development.866, )"
+            },
+            "System.Text.Json": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
